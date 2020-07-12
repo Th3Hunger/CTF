@@ -1,2 +1,2 @@
-# picoCTF
-Welcome picoCTF writeup 
+# CTF writeup
+
